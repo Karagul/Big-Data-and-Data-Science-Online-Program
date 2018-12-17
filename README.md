@@ -1,0 +1,2 @@
+# Big-Data-and-Data-Science-Online-Program
+The Big Data and Data Science program is an integrated and comprehensive online course designed for adult professionals interested in the field of analytics who wish to develop a broad and in-depth expertise in the spectrum of Big Data and Data Science related technologies. Gaining expertise in multiple data-related skills is essential in the field of analytics in order to adapt to fast changing trends and spontaneous business opportunities revealed by available data.   
